@@ -1,5 +1,3 @@
-// Lista de Exercicios 2: Questão 7 //
-// Author: Fernanda Bonfim - Cod: 2069922 //
 
 #include <stdio.h>
 #include <stdlib.h>
